@@ -2218,11 +2218,11 @@
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
- 	 	 	 	"trans": "Указывать",
+ 	 	 	 	"trans": "Экипировать",
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"unequip": {
- 	 	 	 	"trans": "Неверность",
+ 	 	 	 	"trans": "Снять",
  	 	 	 	"eng": "Unequip"
  	 	 	},
  	 	 	"use": {
@@ -2234,7 +2234,7 @@
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
- 	 	 	 	"trans": "Замок",
+ 	 	 	 	"trans": "Заблокировать",
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"upgradeModuleTitle": {
